@@ -133,8 +133,6 @@ EMERGENCY_COOLDOWN_SECONDS=120
 
 > **Not:** Bu özellikler olmadan da proje tam olarak çalışır. Sadece temel sürücü izleme için yukarıdaki değişkenlere ihtiyaç yoktur.
 
-## 📸 Ekran Görüntüleri
-
 ### Ana İzleme Ekranı
 - Gerçek zamanlı yüz takibi
 - Göz açıklık grafiği
