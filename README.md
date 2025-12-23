@@ -67,12 +67,10 @@ EmotionRecognition/
 │
 ├── emotion_model.pkl           # Eğitilmiş duygu modeli
 ├── normalization_params.npz    # Model normalizasyon parametreleri
-├── driver_profile.npy          # Kayıtlı sürücü profili
 │
 ├── sessions/                   # Oturum kayıtları (JSON)
 │   └── surucu_oturumu_*.json
 │
-├── DejaVuSans.ttf             # PDF için font dosyası (opsiyonel)
 │
 └── README.md
 ```
