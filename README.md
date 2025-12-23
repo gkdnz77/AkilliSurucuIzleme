@@ -112,7 +112,7 @@ Her oturum için:
 - Uykululuk yüzdesi
 - Dikkat dağınıklığı yüzdesi
 - Duygu dağılımı
-- Telefon kullanım istatistikleri
+
 
 ## 🔧 Yapılandırma (Opsiyonel)
 
@@ -126,9 +126,6 @@ TELEGRAM_CHAT_ID=your_chat_id
 # AI Chatbot (opsiyonel)
 ANTHROPIC_API_KEY=your_api_key
 
-# Acil durum ayarları
-EMERGENCY_EYES_CLOSED_SECONDS=10
-EMERGENCY_COOLDOWN_SECONDS=120
 ```
 
 > **Not:** Bu özellikler olmadan da proje tam olarak çalışır. Sadece temel sürücü izleme için yukarıdaki değişkenlere ihtiyaç yoktur.
