@@ -1,0 +1,9 @@
+{
+  "eye_threshold": 0.3,
+  "drowsy_threshold": 18,
+  "yaw_threshold": 25,
+  "phone_sensitivity": 20,
+  "calibration_completed": false,
+  "baseline_eye_openness": 0.5,
+  "baseline_blink_rate": 20
+}
