@@ -1,0 +1,396 @@
+{
+  "start_time": "2025-12-19T20:40:03.444876",
+  "end_time": "2025-12-19T20:40:39.389229",
+  "records": [
+    {
+      "timestamp": "2025-12-19T20:40:12.277503",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.7813062761114495,
+        "normal": 0.11266079085518375,
+        "tired": 0.10603292361587063
+      },
+      "eye_openness": 1.0,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 2.076946350589507,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:13.337556",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.4572629147860786,
+        "normal": 0.44298188187159254,
+        "tired": 0.09975519146141221
+      },
+      "eye_openness": 0.9780833618063866,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": -2.1231179199477253,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:14.390300",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.3987216847860216,
+        "normal": 0.5105510344616967,
+        "tired": 0.0907272689465711
+      },
+      "eye_openness": 0.9860403131233157,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 9.250727736014912,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:15.434461",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.37260000534173415,
+        "normal": 0.5155078741477145,
+        "tired": 0.11189210827030135
+      },
+      "eye_openness": 1.0,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 8.982716782489586,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:16.472998",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.3997177507035469,
+        "normal": 0.5017692815180449,
+        "tired": 0.09851295645265952
+      },
+      "eye_openness": 1.0,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 7.183800798692223,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:17.480226",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.35121648182245224,
+        "normal": 0.5491188492388687,
+        "tired": 0.09966465678511101
+      },
+      "eye_openness": 1.0,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 7.523410152286516,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:18.494318",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.42013172293608425,
+        "normal": 0.4556494982181364,
+        "tired": 0.12421876723869367
+      },
+      "eye_openness": 1.0,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 10.553632162738648,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:19.565492",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.6483511283074701,
+        "normal": 0.25362190833920495,
+        "tired": 0.09802695386666951
+      },
+      "eye_openness": 0.7816882230083406,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 4.326197007375924,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:20.568103",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.4188645676239287,
+        "normal": 0.3499562266811197,
+        "tired": 0.2311791968560386
+      },
+      "eye_openness": 0.1258370984596198,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 3.176526706686073,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:21.598210",
+      "emotion": "Yorgun",
+      "emotion_probs": {
+        "angry": 0.10094109235252224,
+        "normal": 0.36681831296900863,
+        "tired": 0.5322405891831524
+      },
+      "eye_openness": 0.12440942929136342,
+      "blink_count": 0,
+      "drowsy": true,
+      "head_yaw": 4.97817199074792,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:22.666709",
+      "emotion": "Yorgun",
+      "emotion_probs": {
+        "angry": 0.049999999999999996,
+        "normal": 0.049999999999999996,
+        "tired": 0.9000000000000001
+      },
+      "eye_openness": 0.2083496006997293,
+      "blink_count": 0,
+      "drowsy": true,
+      "head_yaw": 2.1542347916330113,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:23.734199",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.2703037211055175,
+        "normal": 0.5487216698392302,
+        "tired": 0.18097459883463302
+      },
+      "eye_openness": 0.6584131497342104,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 10.142714673967044,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:24.756637",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.30716459620541275,
+        "normal": 0.44747958738458876,
+        "tired": 0.2453558070375775
+      },
+      "eye_openness": 0.010609066476826736,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 6.877416019955942,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:25.778415",
+      "emotion": "Yorgun",
+      "emotion_probs": {
+        "angry": 0.10483115257147053,
+        "normal": 0.2054118722364156,
+        "tired": 0.6897569722911547
+      },
+      "eye_openness": 0.034963132150578925,
+      "blink_count": 0,
+      "drowsy": true,
+      "head_yaw": 6.427903458243825,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:26.808096",
+      "emotion": "Yorgun",
+      "emotion_probs": {
+        "angry": 0.049999999999999996,
+        "normal": 0.049999999999999996,
+        "tired": 0.9000000000000001
+      },
+      "eye_openness": 0.04356218369763101,
+      "blink_count": 0,
+      "drowsy": true,
+      "head_yaw": 7.6248416757217035,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:27.858885",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.5594564860494246,
+        "normal": 0.2847567600266879,
+        "tired": 0.15578674306130655
+      },
+      "eye_openness": 1.0,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 4.795064703235124,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:28.923958",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.1,
+        "normal": 0.8,
+        "tired": 0.1
+      },
+      "eye_openness": 0.09902797668136847,
+      "blink_count": 0,
+      "drowsy": false,
+      "head_yaw": 0.5611947687964931,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:29.943840",
+      "emotion": "Yorgun",
+      "emotion_probs": {
+        "angry": 0.31550602162826197,
+        "normal": 0.2637745120536553,
+        "tired": 0.42071945795328974
+      },
+      "eye_openness": 0.2888174426910175,
+      "blink_count": 1,
+      "drowsy": false,
+      "head_yaw": 2.2989609171809766,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:30.963925",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.4878403657837631,
+        "normal": 0.3978344633508761,
+        "tired": 0.11432515941727044
+      },
+      "eye_openness": 0.9497108639037466,
+      "blink_count": 2,
+      "drowsy": false,
+      "head_yaw": 42.03448061805856,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:31.991054",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.48855550563631966,
+        "normal": 0.3654955333388309,
+        "tired": 0.14594894974973252
+      },
+      "eye_openness": 1.0,
+      "blink_count": 2,
+      "drowsy": false,
+      "head_yaw": 0.0,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:33.046531",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.4975851581713887,
+        "normal": 0.3091918530462973,
+        "tired": 0.19322297973877584
+      },
+      "eye_openness": 0.4516035607113702,
+      "blink_count": 3,
+      "drowsy": false,
+      "head_yaw": -3.2046672003245145,
+      "distracted": false
+    },
+    {
+      "timestamp": "2025-12-19T20:40:34.062487",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.657188749710121,
+        "normal": 0.2174958753295242,
+        "tired": 0.12531536488319467
+      },
+      "eye_openness": 0.5112317325007993,
+      "blink_count": 3,
+      "drowsy": false,
+      "head_yaw": -5.2491026091940896,
+      "distracted": true
+    },
+    {
+      "timestamp": "2025-12-19T20:40:35.069831",
+      "emotion": "Normal",
+      "emotion_probs": {
+        "angry": 0.0881183358813212,
+        "normal": 0.629052554906741,
+        "tired": 0.2828290985605778
+      },
+      "eye_openness": 0.029858353853250332,
+      "blink_count": 3,
+      "drowsy": false,
+      "head_yaw": -4.826269978512994,
+      "distracted": true
+    },
+    {
+      "timestamp": "2025-12-19T20:40:36.129780",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.4486806492295212,
+        "normal": 0.24015998426129878,
+        "tired": 0.31115935742404294
+      },
+      "eye_openness": 0.5558095772072661,
+      "blink_count": 3,
+      "drowsy": false,
+      "head_yaw": -6.475618164344412,
+      "distracted": true
+    },
+    {
+      "timestamp": "2025-12-19T20:40:37.159083",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.4451290886801635,
+        "normal": 0.3884236060984242,
+        "tired": 0.16644729334977476
+      },
+      "eye_openness": 0.683410597557373,
+      "blink_count": 3,
+      "drowsy": false,
+      "head_yaw": -6.9744475547763125,
+      "distracted": true
+    },
+    {
+      "timestamp": "2025-12-19T20:40:38.203595",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.6048436797531334,
+        "normal": 0.18272089344583928,
+        "tired": 0.21243541782164949
+      },
+      "eye_openness": 0.11813202060209851,
+      "blink_count": 3,
+      "drowsy": false,
+      "head_yaw": -27.900817020081952,
+      "distracted": true
+    },
+    {
+      "timestamp": "2025-12-19T20:40:39.206690",
+      "emotion": "Sinirli",
+      "emotion_probs": {
+        "angry": 0.572333626741849,
+        "normal": 0.20994001443215704,
+        "tired": 0.21772634991132306
+      },
+      "eye_openness": 0.6103968682831762,
+      "blink_count": 3,
+      "drowsy": false,
+      "head_yaw": 6.001302709909531,
+      "distracted": true
+    }
+  ],
+  "statistics": {
+    "total_duration_seconds": 27,
+    "average_eye_openness": 0.5648131315718322,
+    "total_blinks": 3,
+    "drowsy_percentage": 14.814814814814813,
+    "distracted_percentage": 22.22222222222222,
+    "emotion_distribution": {
+      "angry": 0.0,
+      "normal": 33.33333333333333,
+      "tired": 0.0
+    }
+  }
+}

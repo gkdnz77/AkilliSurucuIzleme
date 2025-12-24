@@ -1,0 +1,803 @@
+{
+  "baslangic_zamani": "2025-12-10T18:07:06.467817",
+  "bitis_zamani": "2025-12-10T18:07:56.346101",
+  "kayitlar": [
+    {
+      "zaman_damgasi": "2025-12-10T18:07:06.814080",
+      "duygu": "Angry",
+      "duygu_olasiliklari": {
+        "kizgin": 0.44395099740345445,
+        "normal": 0.4425824067616875,
+        "yorgun": 0.10382989247081557
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -6.766264713951438,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:07.834862",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3628201004598508,
+        "normal": 0.5034846568646931,
+        "yorgun": 0.11236200859129228
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -17.933444885082086,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:08.880883",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.39165608013241715,
+        "normal": 0.46223716173927343,
+        "yorgun": 0.12362882858848843
+      },
+      "goz_acikligi": 0.3970079996064371,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -18.05011962352198,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:09.899160",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3511131131841503,
+        "normal": 0.49533652843940046,
+        "yorgun": 0.13907755186339593
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -42.644925612300725,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:10.905872",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3823027695451273,
+        "normal": 0.48187781986203243,
+        "yorgun": 0.11535709904156655
+      },
+      "goz_acikligi": 0.7140237792662656,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -19.007758988210846,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:11.924617",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.29910616254918465,
+        "normal": 0.5200916853409301,
+        "yorgun": 0.15325663490116045
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -2.328765013451939,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:12.928221",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.34674900809316156,
+        "normal": 0.47341619809439145,
+        "yorgun": 0.1593911029164766
+      },
+      "goz_acikligi": 0.9574377119160007,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": 23.231067994921695,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:13.952158",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.35796915313248945,
+        "normal": 0.517153619928733,
+        "yorgun": 0.11053944007945486
+      },
+      "goz_acikligi": 0.8848544309258994,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": 11.673860407756148,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:14.959088",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3775287527503314,
+        "normal": 0.47565782422370767,
+        "yorgun": 0.12345528828517041
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -19.614189296487336,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:15.975763",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3160284904768597,
+        "normal": 0.5398551760677189,
+        "yorgun": 0.12499756107693248
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -12.281374742464159,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:16.985198",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.39279135886879885,
+        "normal": 0.4682497642903597,
+        "yorgun": 0.11950962158905704
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -11.222049070400736,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:17.985367",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.38905454193075417,
+        "normal": 0.4878747548855014,
+        "yorgun": 0.11071335509202025
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": 0.2860181186153027,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:19.005332",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3856102524291957,
+        "normal": 0.47595847559013565,
+        "yorgun": 0.12336056659445714
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": 0.5726857082288185,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:20.011223",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3553459404009629,
+        "normal": 0.5059658626518386,
+        "yorgun": 0.11596083739894103
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": 70.49139409598597,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:21.031538",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3545404929959975,
+        "normal": 0.4778736304605321,
+        "yorgun": 0.143166212621139
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -25.878783137631657,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:22.033562",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.42506739158849377,
+        "normal": 0.43803697976578865,
+        "yorgun": 0.12055404064911819
+      },
+      "goz_acikligi": 0.9596069988005327,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -17.603991459480874,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:23.040084",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3847428989834135,
+        "normal": 0.46102642815556133,
+        "yorgun": 0.13219143537260356
+      },
+      "goz_acikligi": 0.9759062522436144,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -18.236161304131276,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 0.0
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:24.048153",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3668748920203543,
+        "normal": 0.4657126409037956,
+        "yorgun": 0.14037612845432612
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -11.656083526179282,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:25.069053",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3500744859262446,
+        "normal": 0.5085966164709467,
+        "yorgun": 0.12317662233442568
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -13.287849280318362,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:26.166622",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3777869283025492,
+        "normal": 0.41652934946346304,
+        "yorgun": 0.16508075000916056
+      },
+      "goz_acikligi": 0.8680831758143434,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -20.172994386219216,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:27.200451",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.28677106526851853,
+        "normal": 0.5003497732108557,
+        "yorgun": 0.17526694604598017
+      },
+      "goz_acikligi": 0.5691634213981718,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -8.835986939652672,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:28.222902",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.36632358544701166,
+        "normal": 0.4937177952395406,
+        "yorgun": 0.11934395991626745
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -20.06512399906294,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:29.249819",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3975359892737773,
+        "normal": 0.44360129139380405,
+        "yorgun": 0.140496457761252
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -18.411885086090322,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:30.261003",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.34975366391271784,
+        "normal": 0.5186976523138579,
+        "yorgun": 0.11176682464441252
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -13.638156014639133,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:31.278128",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.37269144459170345,
+        "normal": 0.47046758215377443,
+        "yorgun": 0.1344232489095262
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -13.777363456644876,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:32.288464",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3796393959095149,
+        "normal": 0.4881589584366239,
+        "yorgun": 0.11379230232320317
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -17.406350884744633,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:33.292478",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.40178907443476236,
+        "normal": 0.47060479864854987,
+        "yorgun": 0.11209911827993807
+      },
+      "goz_acikligi": 0.6681312445716182,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -18.6733738579946,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": true,
+      "telefon_kullanim_suresi": 7.4717395305633545
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:34.308923",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3907642863980728,
+        "normal": 0.4562180002868755,
+        "yorgun": 0.13035370807023763
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -19.740954400929702,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:35.318230",
+      "duygu": "Angry",
+      "duygu_olasiliklari": {
+        "kizgin": 0.4338853215243798,
+        "normal": 0.4169645086978302,
+        "yorgun": 0.12844734136076513
+      },
+      "goz_acikligi": 0.8208636297904348,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -19.686808382182704,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:36.368352",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.37319102138838095,
+        "normal": 0.5024904621134438,
+        "yorgun": 0.10941181902794642
+      },
+      "goz_acikligi": 0.7776371310454916,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -13.699436806791468,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:37.388794",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.42639764717301243,
+        "normal": 0.44297722911606663,
+        "yorgun": 0.11522495163170395
+      },
+      "goz_acikligi": 0.9089794033813228,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -17.73860535338231,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:38.395856",
+      "duygu": "Angry",
+      "duygu_olasiliklari": {
+        "kizgin": 0.46270494289078157,
+        "normal": 0.36313884640131144,
+        "yorgun": 0.1531328469510115
+      },
+      "goz_acikligi": 0.19660923724724755,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -6.384672932088583,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:39.399980",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.35374538150157314,
+        "normal": 0.5070521006946968,
+        "yorgun": 0.12262857176374911
+      },
+      "goz_acikligi": 0.518921754572513,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": 10.332259445496282,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:40.422711",
+      "duygu": "Angry",
+      "duygu_olasiliklari": {
+        "kizgin": 0.4655156033058041,
+        "normal": 0.4160319456952973,
+        "yorgun": 0.10868749591636943
+      },
+      "goz_acikligi": 0.355923265521475,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": 12.167780856269703,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:41.433866",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.40853684038118465,
+        "normal": 0.4609412249112851,
+        "yorgun": 0.1149647648525564
+      },
+      "goz_acikligi": 0.20522522298719117,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -4.7488871115414595,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:42.481457",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3731341584180211,
+        "normal": 0.4965530625926532,
+        "yorgun": 0.1151787039786093
+      },
+      "goz_acikligi": 0.22532590394055457,
+      "goz_kirpma_sayisi": 0,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -6.041252256639818,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:43.481986",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3842693734663596,
+        "normal": 0.46049012115384874,
+        "yorgun": 0.13341497071194597
+      },
+      "goz_acikligi": 0.02496509676380394,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -8.065685699970487,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:44.504405",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3794305153638246,
+        "normal": 0.4845812475016528,
+        "yorgun": 0.11654651957581726
+      },
+      "goz_acikligi": 0.0,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -9.681832315772327,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:45.505105",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.38664406307519217,
+        "normal": 0.47133722971947734,
+        "yorgun": 0.12158357101745036
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -14.108994745220185,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:46.509846",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3768444701120899,
+        "normal": 0.48498577728772785,
+        "yorgun": 0.11938952661760972
+      },
+      "goz_acikligi": 0.0,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -9.838469347379178,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:47.512238",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3804423188697583,
+        "normal": 0.49773675716209215,
+        "yorgun": 0.10168852835750332
+      },
+      "goz_acikligi": 0.0,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -9.954975662726115,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:48.591314",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.34628619522846765,
+        "normal": 0.5412388497875877,
+        "yorgun": 0.09644244688067502
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -13.200248563674059,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:49.614785",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.39015340961115863,
+        "normal": 0.45799571132987227,
+        "yorgun": 0.12786213212110625
+      },
+      "goz_acikligi": 0.968803895501803,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -16.91342368708356,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:50.617667",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3746154325967749,
+        "normal": 0.4752883434601664,
+        "yorgun": 0.1277889564503992
+      },
+      "goz_acikligi": 0.65520531861046,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -19.125578150685648,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:51.632944",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3518110431920473,
+        "normal": 0.5146920870276741,
+        "yorgun": 0.11147663575871555
+      },
+      "goz_acikligi": 0.9676224905287876,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -18.658566693262415,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:52.643810",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3708464062244864,
+        "normal": 0.4865847502304418,
+        "yorgun": 0.11891658649971706
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -22.431124108890565,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:53.653600",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.34889293852121667,
+        "normal": 0.5125321729065143,
+        "yorgun": 0.11649767208524404
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -2.831144570001984,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:54.686883",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.3740712299082368,
+        "normal": 0.46354495098981796,
+        "yorgun": 0.13959261848677706
+      },
+      "goz_acikligi": 1.0,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -16.252122100828213,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    },
+    {
+      "zaman_damgasi": "2025-12-10T18:07:55.696710",
+      "duygu": "Normal",
+      "duygu_olasiliklari": {
+        "kizgin": 0.4012177839720437,
+        "normal": 0.4477721303211314,
+        "yorgun": 0.12981774205183078
+      },
+      "goz_acikligi": 0.7634945414072706,
+      "goz_kirpma_sayisi": 1,
+      "uykusuz": false,
+      "kafa_sapma_yaw": -10.982117418668944,
+      "dikkat_daginikligi": false,
+      "telefon_tespit_edildi": false,
+      "telefon_kullanim_suresi": 15.720280408859253
+    }
+  ],
+  "istatistikler": {
+    "toplam_sure_saniye": 49.0,
+    "ortalama_goz_acikligi": 0.7833426919559435,
+    "toplam_goz_kirpma": 1,
+    "uykusuzluk_yuzdesi": 0.0,
+    "dikkat_daginikligi_yuzdesi": 0.0,
+    "telefon_kullanim_yuzdesi": 30.612244897959183,
+    "duygu_dagilimi": {
+      "kizgin": 8.16326530612245,
+      "normal": 91.83673469387756,
+      "yorgun": 0.0
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "eye_threshold": 0.4121407952093888,
+  "drowsy_threshold": 18,
+  "yaw_threshold": 25,
+  "distracted_threshold": 30,
+  "phone_sensitivity": 20,
+  "calibration_completed": true,
+  "baseline_eye_openness": 0.6869013253489813,
+  "baseline_blink_rate": 29.94961845328311
+}
